@@ -1,0 +1,10 @@
+{
+  "handle": "MangoTime",
+  "members": [
+    "CaptainMango",
+    "BurgerTime"
+  ],
+  "address": "0x0000",
+  "link": "test",
+  "image": "./avatars/MangoTime.jpeg"
+}
